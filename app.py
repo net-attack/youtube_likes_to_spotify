@@ -43,7 +43,7 @@ def get_playlist_videos(api_key, playlist_id):
 # Beispielaufruf der Funktion
 if __name__ == "__main__":
     
-    playlist_id = "DEINE_PLAYLIST_ID"
+    playlist_id = "LL"
     
     video_ids = get_playlist_videos(api_key, playlist_id)
     
